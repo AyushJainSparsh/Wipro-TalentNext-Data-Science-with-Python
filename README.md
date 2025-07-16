@@ -1,1 +1,1 @@
-# Wipro TalentNext Data Science with Pyhton
+# Wipro TalentNext Data Science with Python
